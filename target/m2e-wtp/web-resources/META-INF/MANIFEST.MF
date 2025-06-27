@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Rajeshkumar
+Build-Jdk: 11.0.8
+Implementation-Title: EmployeeSalary Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.topaz.batch
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://maven.apache.org
+Main-Class: com.topaz.trading.batch.controller.Application
+Created-By: Maven Integration for Eclipse
+
